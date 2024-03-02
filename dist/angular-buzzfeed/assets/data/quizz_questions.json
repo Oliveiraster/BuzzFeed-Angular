@@ -1,0 +1,87 @@
+{
+    "title":"Você se considera fã de Harry Potter ?",
+    "questions":[
+      {
+        "id":1,
+        "wallpaper": "https://embmariville.files.wordpress.com/2020/07/45a19aa194143e1622bda3998643d963.jpg?w=800",
+        "question": "Qual a primeira senha para a torre da Grifinória?",
+        "options":[
+          {"id": 1, "name":"Cabeça de Dragão", "alias":"A"},
+          {"id": 2, "name":"Rabo de Macaco", "alias":"B"},
+          {"id": 3, "name":"Focinho de porco", "alias":"B"},
+          {"id": 4, "name":"Melhor Fortuna", "alias":"B"}
+        ]
+      },
+      {
+        "id":2,
+        "wallpaper": "https://potterheaven.com/ph/wp-content/uploads/2011/03/lunalunny-e1301505644700.jpg",
+        "question": "Qual o Patrono da Luna?",
+        "options":[
+          {"id": 1, "name":"Cavalo", "alias":"B"},
+          {"id": 2, "name":"Golfinho", "alias":"B"},
+          {"id": 3, "name":"Lebre", "alias":"A"},
+          {"id": 4, "name":"Servo", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "wallpaper": "https://uploads.spiritfanfiction.com/historias/capas/201309/fanfiction-harry-potter-fazendo-as-pazes-harry-e-gina-apos-a-batalha-1154356,250920132025.jpg",
+        "question": "Qual o nome do meio do filho de Harry e Gina?",
+        "options":[
+          {"id": 1, "name":"Alvo Harry Potter", "alias":"B"},
+          {"id": 2, "name":"Severo Hagrid Potter", "alias":"B"},
+          {"id": 3, "name":"Alvo Severo Potter", "alias":"A"},
+          {"id": 4, "name":"Alvin Severo Potter", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "wallpaper": "https://pm1.aminoapps.com/6704/19f295e86f45e7e928be260964bfbc0c0822be48_hq.jpg",
+        "question": "Quando a Sala Precisa aparece pela primeira vez na história e quem usa ela?",
+        "options":[
+          {"id": 1, "name":"A Ordem da Phenix / Lupin", "alias":"B"},
+          {"id": 2, "name":"A Ordem da Phenix / Dobby", "alias":"B"},
+          {"id": 2, "name":"O Cálice de Fogo / Dumbledore", "alias":"A"},
+          {"id": 2, "name":"O Cálice de Fogo / Snape", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "wallpaper": "https://uploads.jovemnerd.com.br/wp-content/uploads/harry_potter_hbp156.jpg",
+        "question": "Por que Cormac McLaggen perdeu os testes para o Quadribol?",
+        "options":[
+          {"id": 1, "name":"Ele estava na detenção", "alias":"B"},
+          {"id": 2, "name":"Ele acabou ganhando uma perna a mais por causa de um incidente", "alias":"B"},
+          {"id": 2, "name":"Ele quebrou o joelho um dia antes", "alias":"B"},
+          {"id": 2, "name":"Ele comeu comida estragada por uma aposta", "alias":"A"}
+        ]
+      },
+      {
+        "id":6,
+        "wallpaper": "https://img.olhardigital.com.br/wp-content/uploads/2022/03/animais-fantasticos-china-1.jpg",
+        "question": "Qual é o nome completo de Alvo Dumbledore ?",
+        "options":[
+          {"id": 1, "name":"Alvo Brian Percival Wulfrico Dumbledore", "alias":"B"},
+          {"id": 2, "name":"Alvo Wulfrico Percival Brian Dumbledore", "alias":"B"},
+          {"id": 2, "name":"Alvo Percival Wulfrico Brian Dumbledore", "alias":"A"},
+          {"id": 2, "name":"Alvo Brian Percival Wulfrico Dumbledore", "alias":"B"}
+        ]
+      },
+      {
+        "id":7,
+        "wallpaper": "https://www.acritica.com/image/policy:1.12541.1647975778:1647975778/image.jpg?f=default&w=1200",
+        "question": "Quando Harry Potter nasceu? ",
+        "options":[
+          {"id": 1, "name":"31 de julho de 1980", "alias":"A"},
+          {"id": 2, "name":"1 de julho de 1980", "alias":"B"},
+          {"id": 2, "name":"30 de fevereiro de 1979", "alias":"B"},
+          {"id": 2, "name":"4 de dezembro de 1970", "alias":"B"}
+        ]
+      }
+
+    ],
+    "results":{
+      "A": "Parabêns você acertou a maioria das perguntas!",
+      "B": "Que pena, você errou a maioria das perguntas!"
+    }
+  }
