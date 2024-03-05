@@ -88,8 +88,9 @@
     .quizz_container,
     .quizz_questions{
         width:auto;
+        text-align: center;
+       
     }
-  
     .quizz_logo img{
         width: 350px;
     }
